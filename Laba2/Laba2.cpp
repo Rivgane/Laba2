@@ -319,6 +319,7 @@ void Task8() // Меняет местами элементы массива, индексы которых вводит пользова
 	massiv();
 }
 
+
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
